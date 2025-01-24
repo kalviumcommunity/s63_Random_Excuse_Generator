@@ -25,7 +25,7 @@ Key Features:
 - Users can subscribe to a daily "excuse of the day" sent to their email. 
 
 6. *Trending Excuses*: 
-   A leaderboard of the most popular excuses according to user votes or shares.
+   A leaderboard of the most popular excuses according to user votes or shares
 
 ---
 

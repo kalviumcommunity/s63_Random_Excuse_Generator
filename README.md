@@ -48,7 +48,8 @@ Key Features:
 
 ---
 
-### *Why This Project:*
+### *Why This Project:*-
+
 - *Humor & Creativity*: This is a fun project that encourages creative thinking while also developing useful technical skills. 
 - *Learning Opportunities*: 
   - *Frontend*: Build an interactive UI with dynamic features like excuse generation.

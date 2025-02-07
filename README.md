@@ -25,7 +25,7 @@ Key Features:
 - Users can subscribe to a daily "excuse of the day" sent to their email. 
 
 6. *Trending Excuses*: 
-   A leaderboard of the most popular excuses according to user votes or shares.
+   A leaderboard of the most popular excuses according to user votes or shares
 
 ---
 
@@ -48,7 +48,8 @@ Key Features:
 
 ---
 
-### *Why This Project:*
+### *Why This Project:*-
+
 - *Humor & Creativity*: This is a fun project that encourages creative thinking while also developing useful technical skills. 
 - *Learning Opportunities*: 
   - *Frontend*: Build an interactive UI with dynamic features like excuse generation.
